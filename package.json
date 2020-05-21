@@ -1,0 +1,22 @@
+{
+  "name": "mikutap",
+  "version": "1.0.0",
+  "description": "A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonsux/mikutap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonsux/mikutap/issues"
+  },
+  "homepage": "https://github.com/leonsux/mikutap#readme",
+  "dependencies": {
+    "mime": "^2.4.5"
+  }
+}

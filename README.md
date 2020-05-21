@@ -1,3 +1,11 @@
+# 本地开发调试
+
+首先确保安装了node.js
+
+安装依赖 `npm i`
+
+`node server.js`
+
 # mikutap
 A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
    
